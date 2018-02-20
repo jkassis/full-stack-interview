@@ -1,3 +1,6 @@
+/**
+ * © Jeremy Kassis 2018. All rights reserved.
+ */
 var {assert, expect} = require('chai');
 var simple = require('simple-mock');
 var geolib = require('geolib');

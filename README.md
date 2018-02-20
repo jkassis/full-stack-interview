@@ -1,3 +1,7 @@
+/**
+ * © Jeremy Kassis 2018. All rights reserved.
+ */
+
 # LumaWaitlist
 
 A Javacript class to generate an optimized waitlist / call list for hospitals everywhere.

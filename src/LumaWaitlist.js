@@ -1,3 +1,6 @@
+/**
+ * © Jeremy Kassis 2018. All rights reserved.
+ */
 var geolib = require('geolib');
 var stats = require('simple-statistics');
 var gaussian = require('gaussian');
